@@ -4,3 +4,4 @@ nibabel
 matplotlib
 ipykernel
 pytest
+scipy
