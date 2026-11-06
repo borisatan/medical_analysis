@@ -1,0 +1,205 @@
+subject_id,study_type,side,has_femur,femur_voxels,volume_ml,superior_cut,extent_from_top_mm,metal_voxels,include,excluded_reason
+s1366,ct polytrauma,left,True,44219,149.239125,False,150.0,0.0,True,
+s1366,ct polytrauma,right,True,42147,142.246125,False,136.5,0.0,True,
+s0310,ct thorax-neck,left,False,0,0.0,,,,False,Femur is empty
+s0310,ct thorax-neck,right,False,0,0.0,,,,False,Femur is empty
+s0250,ct neck-thorax-abdomen-pelvis,left,True,59025,199.209375,False,100.5,0.0,True,
+s0250,ct neck-thorax-abdomen-pelvis,right,True,60168,203.067,False,100.5,0.0,True,
+s0223,ct thorax-neck,left,False,0,0.0,,,,False,Femur is empty
+s0223,ct thorax-neck,right,False,0,0.0,,,,False,Femur is empty
+s0011,ct neck-thorax-abdomen-pelvis,left,True,48377,163.272375,False,93.0,0.0,False,Less than 100mm of bone
+s0011,ct neck-thorax-abdomen-pelvis,right,True,50759,171.311625,False,93.0,0.0,False,Less than 100mm of bone
+s0058,ct thorax-abdomen-pelvis,left,True,47187,159.256125,False,102.0,0.0,True,
+s0058,ct thorax-abdomen-pelvis,right,True,37551,126.734625,False,99.0,11878.0,False,Less than 100mm of bone; Metal detected
+s0747,ct thorax-neck,left,False,0,0.0,,,,False,Femur is empty
+s0747,ct thorax-neck,right,False,0,0.0,,,,False,Femur is empty
+s1405,ct angiography abdomen-pelvis,left,True,52877,178.459875,False,99.0,0.0,False,Less than 100mm of bone
+s1405,ct angiography abdomen-pelvis,right,True,52798,178.19325,False,100.5,0.0,True,
+s0720,ct neck-thorax-abdomen-pelvis,left,True,47696,160.974,False,91.5,0.0,False,Less than 100mm of bone
+s0720,ct neck-thorax-abdomen-pelvis,right,True,48589,163.987875,False,96.0,0.0,False,Less than 100mm of bone
+s0703,ct thorax-abdomen-pelvis,left,True,68470,231.08625,False,102.0,0.0,True,
+s0703,ct thorax-abdomen-pelvis,right,True,68658,231.72075,False,102.0,0.0,True,
+s0726,ct thorax-abdomen-pelvis,left,True,38331,129.367125,False,87.0,0.0,False,Less than 100mm of bone
+s0726,ct thorax-abdomen-pelvis,right,True,44769,151.095375,False,100.5,0.0,True,
+s0727,ct polytrauma,left,True,27052,91.3005,False,52.5,0.0,False,Less than 100mm of bone
+s0727,ct polytrauma,right,True,23675,79.903125,False,43.5,0.0,False,Less than 100mm of bone
+s0649,ct thorax-abdomen-pelvis,left,True,38394,129.57975,False,85.5,0.0,False,Less than 100mm of bone
+s0649,ct thorax-abdomen-pelvis,right,True,38407,129.623625,False,85.5,0.0,False,Less than 100mm of bone
+s1359,ct hip right,left,False,0,0.0,,,,False,Femur is empty
+s1359,ct hip right,right,True,93825,316.659375,False,249.0,0.0,True,
+s0629,ct thorax-abdomen-pelvis,left,True,53404,180.2385,False,112.5,0.0,True,
+s0629,ct thorax-abdomen-pelvis,right,True,53625,180.984375,False,103.5,0.0,True,
+s0591,ct polytrauma,left,True,7344,24.786,False,19.5,0.0,False,Less than 100mm of bone
+s0591,ct polytrauma,right,True,5420,18.2925,False,21.0,2457.0,False,Less than 100mm of bone; Metal detected
+s0582,ct thorax,left,False,0,0.0,,,,False,Femur is empty
+s0582,ct thorax,right,False,0,0.0,,,,False,Femur is empty
+s0573,ct pelvis,left,True,84306,284.53275,False,229.5,21742.0,False,Metal detected
+s0573,ct pelvis,right,True,67333,227.248875,False,219.0,0.0,True,
+s0519,ct thorax-abdomen-pelvis,left,True,51295,173.120625,False,96.0,0.0,False,Less than 100mm of bone
+s0519,ct thorax-abdomen-pelvis,right,True,48602,164.03175,False,90.0,0.0,False,Less than 100mm of bone
+s1399,ct hip right,left,True,58760,198.315,False,231.0,0.0,True,
+s1399,ct hip right,right,True,41993,141.726375,False,232.5,3423.0,False,Metal detected
+s0522,ct thorax,left,False,0,0.0,,,,False,Femur is empty
+s0522,ct thorax,right,False,0,0.0,,,,False,Femur is empty
+s1385,ct angiography abdomen-pelvis,left,True,29378,99.15075,False,61.5,0.0,False,Less than 100mm of bone
+s1385,ct angiography abdomen-pelvis,right,True,25461,85.930875,False,57.0,0.0,False,Less than 100mm of bone
+s0511,ct polytrauma,left,False,0,0.0,,,,False,Femur is empty
+s0511,ct polytrauma,right,False,0,0.0,,,,False,Femur is empty
+s0513,ct abdomen,left,True,51344,173.286,False,105.0,0.0,True,
+s0513,ct abdomen,right,True,52658,177.72075,False,112.5,0.0,True,
+s0477,ct neck-thorax-abdomen-pelvis,left,True,39381,132.910875,False,99.0,0.0,False,Less than 100mm of bone
+s0477,ct neck-thorax-abdomen-pelvis,right,True,39720,134.055,False,96.0,0.0,False,Less than 100mm of bone
+s0481,ct thorax-neck,left,False,0,0.0,,,,False,Femur is empty
+s0481,ct thorax-neck,right,False,0,0.0,,,,False,Femur is empty
+s0461,ct neck-thorax-abdomen-pelvis,left,True,49692,167.7105,False,109.5,0.0,True,
+s0461,ct neck-thorax-abdomen-pelvis,right,True,53137,179.337375,False,115.5,0.0,True,
+s1403,ct angiography abdomen-pelvis,left,True,63649,214.815375,False,99.0,0.0,False,Less than 100mm of bone
+s1403,ct angiography abdomen-pelvis,right,True,64628,218.1195,False,100.5,0.0,True,
+s0454,ct pelvis,left,True,71185,240.249375,False,193.5,22218.0,False,Metal detected
+s0454,ct pelvis,right,True,75878,256.08825,False,186.0,0.0,True,
+s0425,ct thorax-neck,left,False,0,0.0,,,,False,Femur is empty
+s0425,ct thorax-neck,right,False,0,0.0,,,,False,Femur is empty
+s0419,ct pelvis,left,True,54406,183.62025,False,115.5,0.0,True,
+s0419,ct pelvis,right,True,52646,177.68025,False,109.5,0.0,True,
+s0407,ct thorax-neck,left,False,0,0.0,,,,False,Femur is empty
+s0407,ct thorax-neck,right,False,0,0.0,,,,False,Femur is empty
+s0363,ct thorax,left,False,0,0.0,,,,False,Femur is empty
+s0363,ct thorax,right,False,0,0.0,,,,False,Femur is empty
+s0357,ct thorax-neck,left,False,0,0.0,,,,False,Femur is empty
+s0357,ct thorax-neck,right,False,0,0.0,,,,False,Femur is empty
+s0358,ct pelvis,left,True,74892,252.7605,False,288.0,0.0,True,
+s0358,ct pelvis,right,True,79663,268.862625,False,282.0,14959.0,False,Metal detected
+s0344,ct thorax-abdomen-pelvis,left,True,49174,165.96225,False,108.0,0.0,True,
+s0344,ct thorax-abdomen-pelvis,right,True,46836,158.0715,False,102.0,0.0,True,
+s1370,ct angiography thorax-abdomen-pelvis,left,False,0,0.0,,,,False,Femur is empty
+s1370,ct angiography thorax-abdomen-pelvis,right,False,0,0.0,,,,False,Femur is empty
+s1374,ct angiography abdomen-pelvis,left,True,64368,217.242,False,108.0,0.0,True,
+s1374,ct angiography abdomen-pelvis,right,True,72628,245.1195,False,105.0,6436.0,False,Metal detected
+s1364,ct angiography thorax-abdomen-pelvis,left,True,55084,185.9085,False,102.0,0.0,True,
+s1364,ct angiography thorax-abdomen-pelvis,right,True,59061,199.330875,False,105.0,0.0,True,
+s1361,ct angiography thorax-abdomen-pelvis,left,True,83282,281.07675,False,145.5,0.0,True,
+s1361,ct angiography thorax-abdomen-pelvis,right,True,88024,297.081,False,147.0,0.0,True,
+s1144,ct thorax-neck,left,False,0,0.0,,,,False,Femur is empty
+s1144,ct thorax-neck,right,False,0,0.0,,,,False,Femur is empty
+s1348,ct thorax-abdomen-pelvis,left,True,61071,206.114625,False,121.5,0.0,True,
+s1348,ct thorax-abdomen-pelvis,right,True,61736,208.359,False,114.0,0.0,True,
+s1287,ct neck-thorax-abdomen-pelvis,left,True,60778,205.12575,False,105.0,0.0,True,
+s1287,ct neck-thorax-abdomen-pelvis,right,True,59165,199.681875,False,103.5,0.0,True,
+s1400,ct angiography thorax-abdomen-pelvis,left,True,64386,217.30275,False,115.5,0.0,True,
+s1400,ct angiography thorax-abdomen-pelvis,right,True,65108,219.7395,False,114.0,0.0,True,
+s1336,ct neck-thorax-abdomen-pelvis,left,True,54638,184.40325,False,108.0,0.0,True,
+s1336,ct neck-thorax-abdomen-pelvis,right,True,55811,188.362125,False,109.5,0.0,True,
+s1267,ct thorax-abdomen-pelvis,left,True,59113,199.506375,False,111.0,0.0,True,
+s1267,ct thorax-abdomen-pelvis,right,True,58363,196.975125,False,111.0,0.0,True,
+s1233,ct thorax-abdomen-pelvis,left,True,40416,136.404,False,111.0,0.0,True,
+s1233,ct thorax-abdomen-pelvis,right,True,45103,152.222625,False,99.0,0.0,False,Less than 100mm of bone
+s1397,ct whole body,left,True,60565,204.406875,False,84.0,0.0,False,Less than 100mm of bone
+s1397,ct whole body,right,True,60042,202.64175,False,84.0,0.0,False,Less than 100mm of bone
+s1353,ct thorax,left,False,0,0.0,,,,False,Femur is empty
+s1353,ct thorax,right,False,0,0.0,,,,False,Femur is empty
+s1350,ct polytrauma,left,True,17937,60.537375,False,36.0,0.0,False,Less than 100mm of bone
+s1350,ct polytrauma,right,True,14015,47.300625,False,31.5,0.0,False,Less than 100mm of bone
+s1337,ct thorax-neck,left,False,0,0.0,,,,False,Femur is empty
+s1337,ct thorax-neck,right,False,0,0.0,,,,False,Femur is empty
+s1365,ct angiography thorax-abdomen-pelvis,left,True,43110,145.49625,False,97.5,0.0,False,Less than 100mm of bone
+s1365,ct angiography thorax-abdomen-pelvis,right,True,48773,164.608875,False,103.5,0.0,True,
+s1388,ct whole body,left,True,11875,40.078125,False,28.5,0.0,False,Less than 100mm of bone
+s1388,ct whole body,right,True,13449,45.390375,False,33.0,0.0,False,Less than 100mm of bone
+s1164,ct thorax-neck,left,False,0,0.0,,,,False,Femur is empty
+s1164,ct thorax-neck,right,False,0,0.0,,,,False,Femur is empty
+s1378,ct hip right,left,True,76347,257.671125,False,154.5,22367.0,False,Metal detected
+s1378,ct hip right,right,True,68536,231.309,False,157.5,0.0,True,
+s1395,ct angiography thorax-abdomen-pelvis,left,True,50301,169.765875,False,94.5,0.0,False,Less than 100mm of bone
+s1395,ct angiography thorax-abdomen-pelvis,right,True,49512,167.103,False,94.5,0.0,False,Less than 100mm of bone
+s1245,ct thorax,left,False,0,0.0,,,,False,Femur is empty
+s1245,ct thorax,right,False,0,0.0,,,,False,Femur is empty
+s1221,ct thorax,left,False,0,0.0,,,,False,Femur is empty
+s1221,ct thorax,right,False,0,0.0,,,,False,Femur is empty
+s1404,ct angiography thorax-abdomen-pelvis,left,True,43882,148.10175,False,99.0,0.0,False,Less than 100mm of bone
+s1404,ct angiography thorax-abdomen-pelvis,right,True,40429,136.447875,False,91.5,0.0,False,Less than 100mm of bone
+s1206,ct polytrauma,left,True,15981,53.935875,False,33.0,0.0,False,Less than 100mm of bone
+s1206,ct polytrauma,right,True,11974,40.41225,False,28.5,0.0,False,Less than 100mm of bone
+s1127,ct neck-thorax-abdomen-pelvis,left,True,35010,118.15875,False,70.5,0.0,False,Less than 100mm of bone
+s1127,ct neck-thorax-abdomen-pelvis,right,True,43816,147.879,False,81.0,13054.0,False,Less than 100mm of bone; Metal detected
+s1383,ct angiography abdomen-pelvis,left,True,71363,240.850125,False,118.5,0.0,True,
+s1383,ct angiography abdomen-pelvis,right,True,68169,230.070375,False,112.5,0.0,True,
+s1167,ct thorax,left,False,0,0.0,,,,False,Femur is empty
+s1167,ct thorax,right,False,0,0.0,,,,False,Femur is empty
+s1358,ct angiography abdomen-pelvis,left,True,44048,148.662,False,99.0,0.0,False,Less than 100mm of bone
+s1358,ct angiography abdomen-pelvis,right,True,43680,147.42,False,93.0,0.0,False,Less than 100mm of bone
+s1391,ct angiography abdomen-pelvis,left,True,62689,211.575375,False,118.5,0.0,True,
+s1391,ct angiography abdomen-pelvis,right,True,62147,209.746125,False,115.5,0.0,True,
+s1387,ct angiography thorax-abdomen-pelvis,left,True,72240,243.81,False,126.0,0.0,True,
+s1387,ct angiography thorax-abdomen-pelvis,right,True,73340,247.5225,False,129.0,0.0,True,
+s1371,ct whole body,left,True,106482,359.37675,False,258.0,0.0,True,
+s1371,ct whole body,right,True,99635,336.268125,False,253.5,14663.0,False,Metal detected
+s1086,ct neck-thorax-abdomen-pelvis,left,True,61910,208.94625,False,117.0,0.0,True,
+s1086,ct neck-thorax-abdomen-pelvis,right,True,58662,197.98425,False,103.5,0.0,True,
+s1124,ct polytrauma,left,True,49989,168.712875,False,100.5,0.0,True,
+s1124,ct polytrauma,right,True,48707,164.386125,False,97.5,0.0,False,Less than 100mm of bone
+s1123,ct polytrauma,left,False,0,0.0,,,,False,Femur is empty
+s1123,ct polytrauma,right,False,0,0.0,,,,False,Femur is empty
+s1384,ct whole body,left,False,0,0.0,,,,False,Femur is empty
+s1384,ct whole body,right,False,0,0.0,,,,False,Femur is empty
+s1082,ct polytrauma,left,False,0,0.0,,,,False,Femur is empty
+s1082,ct polytrauma,right,False,0,0.0,,,,False,Femur is empty
+s0914,ct thorax-neck,left,False,0,0.0,,,,False,Femur is empty
+s0914,ct thorax-neck,right,False,0,0.0,,,,False,Femur is empty
+s1042,ct thorax,left,False,0,0.0,,,,False,Femur is empty
+s1042,ct thorax,right,False,0,0.0,,,,False,Femur is empty
+s0999,ct thorax-neck,left,False,0,0.0,,,,False,Femur is empty
+s0999,ct thorax-neck,right,False,0,0.0,,,,False,Femur is empty
+s1029,ct polytrauma,left,True,2584,8.721,False,22.5,2394.0,False,Less than 100mm of bone; Metal detected
+s1029,ct polytrauma,right,True,6301,21.265875,False,27.0,4639.0,False,Less than 100mm of bone; Metal detected
+s1369,ct whole body,left,True,25316,85.4415,False,45.0,0.0,False,Less than 100mm of bone
+s1369,ct whole body,right,True,21543,72.707625,False,37.5,0.0,False,Less than 100mm of bone
+s0950,ct thorax-abdomen-pelvis,left,True,47773,161.233875,False,103.5,0.0,True,
+s0950,ct thorax-abdomen-pelvis,right,True,44450,150.01875,False,99.0,0.0,False,Less than 100mm of bone
+s1372,ct angiography thorax-abdomen-pelvis,left,True,56029,189.097875,False,100.5,16361.0,False,Metal detected
+s1372,ct angiography thorax-abdomen-pelvis,right,True,53252,179.7255,False,108.0,11442.0,False,Metal detected
+s0970,ct polytrauma,left,False,0,0.0,,,,False,Femur is empty
+s0970,ct polytrauma,right,False,0,0.0,,,,False,Femur is empty
+s0965,ct thorax-abdomen-pelvis,left,True,38606,130.29525,False,111.0,0.0,True,
+s0965,ct thorax-abdomen-pelvis,right,True,40944,138.186,False,115.5,0.0,True,
+s0963,ct thorax-abdomen-pelvis,left,True,43009,145.155375,False,105.0,0.0,True,
+s0963,ct thorax-abdomen-pelvis,right,True,51121,172.533375,False,97.5,13963.0,False,Less than 100mm of bone; Metal detected
+s0928,ct thorax-abdomen-pelvis,left,True,51241,172.938375,False,102.0,0.0,True,
+s0928,ct thorax-abdomen-pelvis,right,True,50444,170.2485,False,103.5,0.0,True,
+s0915,ct thorax-abdomen-pelvis,left,True,52781,178.135875,False,100.5,0.0,True,
+s0915,ct thorax-abdomen-pelvis,right,True,54857,185.142375,False,105.0,0.0,True,
+s0912,ct neck-thorax-abdomen-pelvis,left,True,71208,240.327,False,135.0,0.0,True,
+s0912,ct neck-thorax-abdomen-pelvis,right,True,71406,240.99525,False,133.5,0.0,True,
+s0908,ct thorax,left,False,0,0.0,,,,False,Femur is empty
+s0908,ct thorax,right,False,0,0.0,,,,False,Femur is empty
+s0903,ct polytrauma,left,True,75372,254.3805,False,121.5,6446.0,False,Metal detected
+s0903,ct polytrauma,right,True,56528,190.782,False,121.5,13306.0,False,Metal detected
+s0878,ct neck-thorax-abdomen-pelvis,left,True,49902,168.41925,False,106.5,0.0,True,
+s0878,ct neck-thorax-abdomen-pelvis,right,True,48117,162.394875,False,94.5,0.0,False,Less than 100mm of bone
+s0885,ct thorax-abdomen-pelvis,left,True,55238,186.42825,False,96.0,0.0,False,Less than 100mm of bone
+s0885,ct thorax-abdomen-pelvis,right,True,55748,188.1495,False,96.0,0.0,False,Less than 100mm of bone
+s1401,ct angiography abdomen-pelvis,left,True,36049,121.665375,False,76.5,0.0,False,Less than 100mm of bone
+s1401,ct angiography abdomen-pelvis,right,True,35669,120.382875,False,72.0,0.0,False,Less than 100mm of bone
+s1389,ct angiography abdomen-pelvis,left,False,0,0.0,,,,False,Femur is empty
+s1389,ct angiography abdomen-pelvis,right,False,0,0.0,,,,False,Femur is empty
+s0866,ct thorax,left,False,0,0.0,,,,False,Femur is empty
+s0866,ct thorax,right,False,0,0.0,,,,False,Femur is empty
+s0859,ct thorax-abdomen-pelvis,left,True,65558,221.25825,False,129.0,6455.0,False,Metal detected
+s0859,ct thorax-abdomen-pelvis,right,True,67668,228.3795,False,130.5,6480.0,False,Metal detected
+s1390,ct angiography abdomen-pelvis,left,True,84874,286.44975,False,129.0,0.0,True,
+s1390,ct angiography abdomen-pelvis,right,True,87099,293.959125,False,130.5,0.0,True,
+s1373,ct angiography abdomen-pelvis,left,True,53820,181.6425,False,105.0,0.0,True,
+s1373,ct angiography abdomen-pelvis,right,True,56542,190.82925,False,112.5,0.0,True,
+s0815,ct pelvis,left,True,96510,325.72125,False,237.0,16157.0,False,Metal detected
+s0815,ct pelvis,right,True,111031,374.729625,False,237.0,0.0,True,
+s0812,ct polytrauma,left,True,450,1.51875,False,4.5,0.0,False,Less than 100mm of bone
+s0812,ct polytrauma,right,True,303,1.022625,False,4.5,0.0,False,Less than 100mm of bone
+s0811,ct thorax,left,False,0,0.0,,,,False,Femur is empty
+s0811,ct thorax,right,False,0,0.0,,,,False,Femur is empty
+s1379,ct angiography thorax-abdomen-pelvis,left,True,65420,220.7925,False,114.0,0.0,True,
+s1379,ct angiography thorax-abdomen-pelvis,right,True,64083,216.280125,False,108.0,0.0,True,
+s0777,ct polytrauma,left,True,3969,13.395375,False,13.5,0.0,False,Less than 100mm of bone
+s0777,ct polytrauma,right,True,929,3.135375,False,6.0,0.0,False,Less than 100mm of bone
+s0763,ct polytrauma,left,True,53638,181.02825,False,120.0,0.0,True,
+s0763,ct polytrauma,right,True,52856,178.389,False,111.0,0.0,True,
+s0762,ct thorax-abdomen-pelvis,left,True,61171,206.452125,False,130.5,0.0,True,
+s0762,ct thorax-abdomen-pelvis,right,True,58302,196.76925,False,120.0,0.0,True,
